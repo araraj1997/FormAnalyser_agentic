@@ -166,7 +166,7 @@ print(result.statistics)
 #  "salary_range": {"min": 65000, "max": 110000}}
 ```
 
-## 🖥️ Web Interface
+##  Web Interface
 
 Launch the Streamlit UI:
 
@@ -183,7 +183,7 @@ Features:
 
 
 
-## 🔧 Python API
+##  Python API
 
 ```python
 from src.agent import IntelligentFormAgent
@@ -216,7 +216,7 @@ analysis = agent.analyze("Compare salaries", [form1, form2, form3])
 print(agent.total_llm_calls)  # Number of API calls made
 ```
 
-## 🧠 How the LLM is Used
+##  How the LLM is Used
 
 ### Field Extraction Prompt
 ```
