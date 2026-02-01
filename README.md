@@ -79,51 +79,12 @@ agent = IntelligentFormAgent()
 
 form = agent.process_form("tax_form.pdf")
 
+
+You can run the app using streamlit as well -
+streamlit run app.py
+
 result = agent.ask("What is the employee's total wages?", form)
 
 print(result.answer)
 print(result.confidence)
 print(result.evidence)
-
-Cross-Form Analysis Example
-forms = agent.process_forms([
-    "onboarding_1.txt",
-    "onboarding_2.txt",
-    "onboarding_3.txt"
-])
-
-analysis = agent.analyze(
-    "What is the average salary by department?",
-    forms
-)
-
-print(analysis.answer)
-print(analysis.insights)
-print(analysis.statistics)
-
-Command Line Interface
-# Process a form
-python cli.py process tax_form.pdf
-
-# Ask a question
-python cli.py ask -f tax_form.pdf -q "What is the total income?"
-
-# Summarize documents
-python cli.py summarize form1.pdf form2.pdf
-
-# Cross-form analysis
-python cli.py analyze -f form1.pdf -f form2.pdf -q "Compare employees"
-
-How the LLM Is Used
-
-One LLM call per intelligent operation
-
-Prompts include document text + extracted fields
-
-Outputs are structured and include confidence and evidence
-
-Example prompt pattern:
-
-Analyze the document and answer the question.
-Provide evidence from the document.
-Return a confidence score.
