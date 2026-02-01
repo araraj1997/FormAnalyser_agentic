@@ -1,0 +1,36 @@
+EMPLOYEE ONBOARDING FORM
+
+PERSONAL INFORMATION
+Full Name: Emily Rodriguez
+Date of Birth: 03/10/1992
+Social Security Number: 456-78-9012
+Address: 321 Pine Street, Tech City, CA 94103
+Phone: (415) 555-0201
+Email: emily.rodriguez@email.com
+Emergency Contact: Carlos Rodriguez (Brother) - (415) 555-0202
+
+EMPLOYMENT DETAILS
+Position: Marketing Manager
+Department: Marketing
+Start Date: 02/15/2024
+Employment Type: Full-time
+Work Location: San Francisco Office
+Manager: David Chen
+Employee ID: EMP-2024-002
+
+COMPENSATION
+Annual Salary: $80,000.00
+Pay Frequency: Bi-weekly
+Bonus Eligible: Yes
+Stock Options: 2,000 shares vesting over 4 years
+
+BENEFITS ENROLLMENT
+[X] Health Insurance - HMO Plan
+[X] Dental Insurance
+[ ] Vision Insurance
+[X] 401(k) - Contributing 4%
+[X] Life Insurance
+[ ] Flexible Spending Account
+
+Signature: Emily Rodriguez
+Date: 02/10/2024

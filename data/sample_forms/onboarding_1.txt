@@ -1,0 +1,36 @@
+EMPLOYEE ONBOARDING FORM
+
+PERSONAL INFORMATION
+Full Name: Michael Johnson
+Date of Birth: 08/22/1990
+Social Security Number: 987-65-4321
+Address: 789 Oak Avenue, Tech City, CA 94102
+Phone: (415) 555-0101
+Email: michael.johnson@email.com
+Emergency Contact: Sarah Johnson (Wife) - (415) 555-0102
+
+EMPLOYMENT DETAILS
+Position: Software Engineer
+Department: Engineering
+Start Date: 02/01/2024
+Employment Type: Full-time
+Work Location: San Francisco Office
+Manager: David Chen
+Employee ID: EMP-2024-001
+
+COMPENSATION
+Annual Salary: $110,000.00
+Pay Frequency: Bi-weekly
+Bonus Eligible: Yes
+Stock Options: 5,000 shares vesting over 4 years
+
+BENEFITS ENROLLMENT
+[X] Health Insurance - PPO Plan
+[X] Dental Insurance
+[X] Vision Insurance
+[X] 401(k) - Contributing 6%
+[ ] Life Insurance
+[X] Flexible Spending Account
+
+Signature: Michael Johnson
+Date: 01/25/2024

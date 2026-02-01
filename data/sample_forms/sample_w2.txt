@@ -1,0 +1,19 @@
+Employee Name: John Smith
+Employee SSN: 123-45-6789
+Employer Name: Acme Corporation
+Employer EIN: 12-3456789
+
+Wage and Tax Statement - Form W-2
+
+Box 1 - Wages, tips, other compensation: $75,000.00
+Box 2 - Federal income tax withheld: $11,250.00
+Box 3 - Social security wages: $75,000.00
+Box 4 - Social security tax withheld: $4,650.00
+Box 5 - Medicare wages and tips: $75,000.00
+Box 6 - Medicare tax withheld: $1,087.50
+
+State: CA
+State wages: $75,000.00
+State income tax: $4,500.00
+
+Tax Year: 2024

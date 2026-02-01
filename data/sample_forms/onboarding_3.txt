@@ -1,0 +1,36 @@
+EMPLOYEE ONBOARDING FORM
+
+PERSONAL INFORMATION
+Full Name: Robert Kim
+Date of Birth: 11/05/1988
+Social Security Number: 234-56-7890
+Address: 567 Maple Drive, Tech City, CA 94104
+Phone: (415) 555-0301
+Email: robert.kim@email.com
+Emergency Contact: Lisa Kim (Mother) - (415) 555-0302
+
+EMPLOYMENT DETAILS
+Position: Sales Representative
+Department: Sales
+Start Date: 02/01/2024
+Employment Type: Full-time
+Work Location: San Francisco Office
+Manager: Jennifer Walsh
+Employee ID: EMP-2024-003
+
+COMPENSATION
+Annual Salary: $65,000.00
+Pay Frequency: Bi-weekly
+Bonus Eligible: Yes - Commission Based
+Stock Options: 1,000 shares vesting over 4 years
+
+BENEFITS ENROLLMENT
+[X] Health Insurance - PPO Plan
+[X] Dental Insurance
+[X] Vision Insurance
+[X] 401(k) - Contributing 3%
+[ ] Life Insurance
+[ ] Flexible Spending Account
+
+Signature: Robert Kim
+Date: 01/28/2024
